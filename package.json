@@ -1,0 +1,14 @@
+{
+  "name": "hello-electron",
+  "version": "1.0.0",
+  "description": "my first electron app for educational purposes",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vahid Parsafar",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.2.1"
+  }
+}
